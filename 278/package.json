@@ -1,0 +1,14 @@
+{
+  "name": "278",
+  "version": "1.0.0",
+  "description": "suckandfuck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lick"
+  ],
+  "author": "licker",
+  "license": "ISC"
+}
