@@ -10,5 +10,8 @@
     "lick"
   ],
   "author": "licker",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
 }
